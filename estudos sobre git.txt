@@ -1,3 +1,7 @@
 QUAIS OS PRINCIPAIS COMANDOS QUE USO NO GIT?
 
 1° git init - serve para iniciar um novo repositorio
+2°
+3°
+4°
+5°
